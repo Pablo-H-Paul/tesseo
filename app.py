@@ -8,7 +8,7 @@ import pyperclip
 # --- CONFIGURACIÓN ---
 # Reemplaza con tu API KEY
 # usada con el mail apellido nombre
-API_KEY = "AIzaSyCBc_G44ZMXG_UJEmOb-bVRAzfOq0N9H5g"
+API_KEY = ""
 
 try:
     client = genai.Client(api_key=API_KEY)
