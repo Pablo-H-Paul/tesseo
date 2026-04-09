@@ -15,7 +15,7 @@ try:
 except Exception as e:
     print(f"Error inicializando cliente: {e}")
 
-
+# try 
 class LinkedInApp:
     def __init__(self, root):
         self.root = root
